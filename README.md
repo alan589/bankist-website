@@ -1,7 +1,5 @@
 # About
-Mapty é uma aplicação web criada durante o curso [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/) 
-
-A aplicação consiste em mapear exercicíos através de um mapa interativo
+Website feito durante o curso [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/) algumas algumas funcionalidades novas em Javascript implementadas por mim
 
 ## Overview
 
@@ -11,16 +9,21 @@ A aplicação consiste em mapear exercicíos através de um mapa interativo
 
 ### Links
 
-- Live Site: (https://alan589.github.io/mapty/)
+- Project link: (https://alan589.github.io/bankist-website/)
 
 ## My process
 
 ### Built with
 
-- HTML
-- CSS
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
 - JavaScript
-- Leaflet Library
+- 
+### What I learned
+
+- Advanced DOM
+- Events
 
 ## Author
 
