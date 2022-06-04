@@ -19,7 +19,11 @@ Website feito durante o curso [The Complete JavaScript Course](https://www.udemy
 - CSS custom properties
 - Flexbox
 - JavaScript
-- Advanced DOM and Events
+- 
+### What I learned
+
+- Advanced DOM
+- Events
 
 ## Author
 
