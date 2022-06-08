@@ -1,5 +1,5 @@
 # About
-Website feito durante o curso [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/) algumas algumas funcionalidades novas em Javascript implementadas por mim
+Website feito durante o curso [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/) com algumas funcionalidades novas em Javascript implementadas por mim
 
 ## Overview
 
