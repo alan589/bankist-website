@@ -1,5 +1,6 @@
 # About
-Website feito durante o curso [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/) com algumas funcionalidades novas em Javascript implementadas por mim
+Web application made during [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/) in order to practice javascript.
+
 
 ## Overview
 
@@ -27,5 +28,7 @@ Website feito durante o curso [The Complete JavaScript Course](https://www.udemy
 
 ## Author
 
-- Linkedin - [Alan cavalcante](https://www.linkedin.com/in/alan-cavalcante-382051206/)
+- Linkedin - [Alan cavalcante](https://www.linkedin.com/in/alan--cavalcante/)
+
+
 
